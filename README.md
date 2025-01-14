@@ -1,6 +1,6 @@
 # create-icp-evm-bridge
 
-A CLI tool to quickly scaffold ICP-EVM projects that are utilizing chain fusion using either [ic-alloy](https://github.com/ic-alloy/ic-alloy) or [ic-evm-utils](https://crates.io/crates/ic-evm-utils) packages.
+CLI tool to quickly get started with chain fusion on ICP.Using either [ic-alloy](https://github.com/ic-alloy/ic-alloy) or [ic-evm-utils](https://crates.io/crates/ic-evm-utils) packages.
 
 ## Features
 
