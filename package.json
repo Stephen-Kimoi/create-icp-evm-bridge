@@ -1,15 +1,16 @@
 {
   "name": "create-icp-evm-bridge",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "CLI tool to create ICP-EVM bridge projects",
   "bin": "./index.js",
   "type": "module",
   "keywords": [
     "icp",
     "evm",
-    "bridge",
+    "chain fusion",
     "ethereum",
-    "dfinity"
+    "dfinity", 
+    "rust"
   ],
   "author": "stevekimoi",
   "license": "MIT"
